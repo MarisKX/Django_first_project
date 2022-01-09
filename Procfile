@@ -1,1 +1,1 @@
-web: gunicorn mkx-django-todoapp.wsgi:application
+web: gunicorn mkx-django-todoapp.wsgi
